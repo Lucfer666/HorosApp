@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="primary">#171616</color>
+    <color name="primaryDark">#000000</color>
+    <color name="secondary">#FF5722</color>
+    <color name="accent">#fff</color>
+    <color name="gold">#D5B760</color>
+    <color name="black_alpha">#000000</color>
+    <color name="red">#F44336</color>
+</resources>
